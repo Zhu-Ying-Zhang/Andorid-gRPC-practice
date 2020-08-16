@@ -1,0 +1,3 @@
+include ':gRPC-lib'
+include ':app'
+rootProject.name = "FoodApp"
